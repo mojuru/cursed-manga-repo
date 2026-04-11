@@ -19,10 +19,10 @@ https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/index.min.json
 ```
 just paste above URL into your manga repo
 
-Or access this pages: https://yuzono.github.io/cursed-manga-repo/
+Or access this pages: https://yuzono.github.io/cursed-manga-extensions/
 
 ## List of extensions
-https://yuzono.github.io/cursed-manga-repo/extensions/
+https://yuzono.github.io/cursed-manga-extensions/extensions/
 
 ## Source Code
 
@@ -38,4 +38,4 @@ https://github.com/yuzono/cursed-manga-extensions/issues/new/choose
 
 # Others
 
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://yuzono.github.io/cursed-manga-repo/extensions/)
+If you're not using any of the above fork then manually download and update extensions from [the listing page](https://yuzono.github.io/cursed-manga-extensions/extensions/)
