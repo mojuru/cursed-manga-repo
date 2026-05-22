@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: E-Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.4.27.apk",
+    "apk": "tachiyomi-all.ehentai-v1.4.28.apk",
     "lang": "all",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "sources": [
       {
@@ -325,10 +325,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.58.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.59.apk",
     "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "sources": [
       {
@@ -396,10 +396,10 @@
   {
     "name": "Tachiyomi: Hentai20",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai20",
-    "apk": "tachiyomi-en.hentai20-v1.4.39.apk",
+    "apk": "tachiyomi-en.hentai20-v1.4.41.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "sources": [
       {
@@ -414,10 +414,10 @@
   {
     "name": "Tachiyomi: Hentai2Read",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai2read",
-    "apk": "tachiyomi-en.hentai2read-v1.4.18.apk",
+    "apk": "tachiyomi-en.hentai2read-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
