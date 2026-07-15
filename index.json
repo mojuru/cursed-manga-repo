@@ -1,432 +1,453 @@
-[
-  {
-    "name": "Tachiyomi: E-Hentai",
-    "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.4.28.apk",
-    "lang": "all",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "E-Hentai",
-        "lang": "ja",
-        "id": "8100626124886895451",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "en",
-        "id": "57122881048805941",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "zh",
-        "id": "4678440076103929247",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "nl",
-        "id": "1876021963378735852",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "fr",
-        "id": "3955189842350477641",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "de",
-        "id": "4348288691341764259",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "hu",
-        "id": "773611868725221145",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "it",
-        "id": "5759417018342755550",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "ko",
-        "id": "825187715438990384",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "pl",
-        "id": "6116711405602166104",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "pt-BR",
-        "id": "7151438547982231541",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "ru",
-        "id": "2171445159732592630",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "es",
-        "id": "3032959619549451093",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "th",
-        "id": "5980349886941016589",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "vi",
-        "id": "6073266008352078708",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "none",
-        "id": "5499077866612745456",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      },
-      {
-        "name": "E-Hentai",
-        "lang": "other",
-        "id": "6140480779421365791",
-        "baseUrl": "https://e-hentai.org",
-        "versionId": 1
-      }
-    ]
+{
+  "name": "Cursed Y\u016bz\u014dn\u014d",
+  "badgeLabel": "Cursed",
+  "signingKey": "a5e2027162d4b7294d54fd069af923eee4078cc097765d3a0d84a747d3a8356e",
+  "contact": {
+    "website": "https://yuzono.github.io/",
+    "discord": "https://discord.gg/85MZhUX688"
   },
-  {
-    "name": "Tachiyomi: Hitomi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.41.apk",
-    "lang": "all",
-    "code": 41,
-    "version": "1.4.41",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Hitomi",
-        "lang": "all",
-        "id": "690123758188633713",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
+  "extensions": [
+    {
+      "name": "E-Hentai",
+      "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.ehentai-v1.4.28.apk",
+        "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.ehentai.png"
       },
-      {
-        "name": "Hitomi",
-        "lang": "en",
-        "id": "8758194323514078879",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
+      "extensionLib": "1.4",
+      "versionCode": 28,
+      "versionName": "1.4.28",
+      "sources": [
+        {
+          "id": "8100626124886895451",
+          "name": "E-Hentai",
+          "language": "ja",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "57122881048805941",
+          "name": "E-Hentai",
+          "language": "en",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4678440076103929247",
+          "name": "E-Hentai",
+          "language": "zh",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1876021963378735852",
+          "name": "E-Hentai",
+          "language": "nl",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3955189842350477641",
+          "name": "E-Hentai",
+          "language": "fr",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4348288691341764259",
+          "name": "E-Hentai",
+          "language": "de",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "773611868725221145",
+          "name": "E-Hentai",
+          "language": "hu",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5759417018342755550",
+          "name": "E-Hentai",
+          "language": "it",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "825187715438990384",
+          "name": "E-Hentai",
+          "language": "ko",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6116711405602166104",
+          "name": "E-Hentai",
+          "language": "pl",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7151438547982231541",
+          "name": "E-Hentai",
+          "language": "pt-BR",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2171445159732592630",
+          "name": "E-Hentai",
+          "language": "ru",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3032959619549451093",
+          "name": "E-Hentai",
+          "language": "es",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5980349886941016589",
+          "name": "E-Hentai",
+          "language": "th",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6073266008352078708",
+          "name": "E-Hentai",
+          "language": "vi",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5499077866612745456",
+          "name": "E-Hentai",
+          "language": "none",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6140480779421365791",
+          "name": "E-Hentai",
+          "language": "other",
+          "homeUrl": "https://e-hentai.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Hitomi",
+      "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.hitomi-v1.4.41.apk",
+        "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.hitomi.png"
       },
-      {
-        "name": "Hitomi",
-        "lang": "id",
-        "id": "1151065481637272954",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
+      "extensionLib": "1.4",
+      "versionCode": 41,
+      "versionName": "1.4.41",
+      "sources": [
+        {
+          "id": "690123758188633713",
+          "name": "Hitomi",
+          "language": "all",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8758194323514078879",
+          "name": "Hitomi",
+          "language": "en",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1151065481637272954",
+          "name": "Hitomi",
+          "language": "id",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6508906416202704914",
+          "name": "Hitomi",
+          "language": "jv",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6511868096744396893",
+          "name": "Hitomi",
+          "language": "ca",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4174246577531268343",
+          "name": "Hitomi",
+          "language": "ceb",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6252839110189358321",
+          "name": "Hitomi",
+          "language": "cs",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "846229581721942637",
+          "name": "Hitomi",
+          "language": "da",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3527959698638681794",
+          "name": "Hitomi",
+          "language": "de",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3137387913459348191",
+          "name": "Hitomi",
+          "language": "et",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4675241818028365305",
+          "name": "Hitomi",
+          "language": "es",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2806629479137588090",
+          "name": "Hitomi",
+          "language": "eo",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2485667029890093714",
+          "name": "Hitomi",
+          "language": "fr",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6889006204051558344",
+          "name": "Hitomi",
+          "language": "it",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1934919967422980093",
+          "name": "Hitomi",
+          "language": "hi",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5925216506653833737",
+          "name": "Hitomi",
+          "language": "hu",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "721961972020678864",
+          "name": "Hitomi",
+          "language": "pl",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5342308195627947507",
+          "name": "Hitomi",
+          "language": "pt",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3818599797217502124",
+          "name": "Hitomi",
+          "language": "vi",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5379755699214980223",
+          "name": "Hitomi",
+          "language": "tr",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3909280091773603050",
+          "name": "Hitomi",
+          "language": "ru",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4074034220834832549",
+          "name": "Hitomi",
+          "language": "uk",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6776904750010591906",
+          "name": "Hitomi",
+          "language": "ar",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "9053782715781498920",
+          "name": "Hitomi",
+          "language": "ko",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1859528116737393976",
+          "name": "Hitomi",
+          "language": "zh",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7152495211541141858",
+          "name": "Hitomi",
+          "language": "ja",
+          "homeUrl": "https://hitomi.la",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "NHentai",
+      "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.nhentai-v1.4.60.apk",
+        "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.nhentai.png"
       },
-      {
-        "name": "Hitomi",
-        "lang": "jv",
-        "id": "6508906416202704914",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
+      "extensionLib": "1.4",
+      "versionCode": 60,
+      "versionName": "1.4.60",
+      "sources": [
+        {
+          "id": "3122156392225024195",
+          "name": "NHentai",
+          "language": "en",
+          "homeUrl": "https://nhentai.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4726175775739752699",
+          "name": "NHentai",
+          "language": "ja",
+          "homeUrl": "https://nhentai.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2203215402871965477",
+          "name": "NHentai",
+          "language": "zh",
+          "homeUrl": "https://nhentai.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7309872737163460316",
+          "name": "NHentai",
+          "language": "all",
+          "homeUrl": "https://nhentai.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Pururin",
+      "packageName": "eu.kanade.tachiyomi.extension.all.pururin",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.pururin-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.pururin.png"
       },
-      {
-        "name": "Hitomi",
-        "lang": "ca",
-        "id": "6511868096744396893",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "4326152278746463981",
+          "name": "Pururin",
+          "language": "all",
+          "homeUrl": "https://pururin.me",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2221515250486218861",
+          "name": "Pururin",
+          "language": "en",
+          "homeUrl": "https://pururin.me",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "995946880114959182",
+          "name": "Pururin",
+          "language": "ja",
+          "homeUrl": "https://pururin.me",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Hentai20",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hentai20",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-en.hentai20-v1.4.41.apk",
+        "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentai20.png"
       },
-      {
-        "name": "Hitomi",
-        "lang": "ceb",
-        "id": "4174246577531268343",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
+      "extensionLib": "1.4",
+      "versionCode": 41,
+      "versionName": "1.4.41",
+      "sources": [
+        {
+          "id": "7114409483685920616",
+          "name": "Hentai20",
+          "language": "en",
+          "homeUrl": "https://hentai20.io",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Hentai2Read",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-en.hentai2read-v1.4.19.apk",
+        "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentai2read.png"
       },
-      {
-        "name": "Hitomi",
-        "lang": "cs",
-        "id": "6252839110189358321",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "da",
-        "id": "846229581721942637",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "de",
-        "id": "3527959698638681794",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "et",
-        "id": "3137387913459348191",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "es",
-        "id": "4675241818028365305",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "eo",
-        "id": "2806629479137588090",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "fr",
-        "id": "2485667029890093714",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "it",
-        "id": "6889006204051558344",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "hi",
-        "id": "1934919967422980093",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "hu",
-        "id": "5925216506653833737",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "pl",
-        "id": "721961972020678864",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "pt",
-        "id": "5342308195627947507",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "vi",
-        "id": "3818599797217502124",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "tr",
-        "id": "5379755699214980223",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "ru",
-        "id": "3909280091773603050",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "uk",
-        "id": "4074034220834832549",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "ar",
-        "id": "6776904750010591906",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "ko",
-        "id": "9053782715781498920",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "zh",
-        "id": "1859528116737393976",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      },
-      {
-        "name": "Hitomi",
-        "lang": "ja",
-        "id": "7152495211541141858",
-        "baseUrl": "https://hitomi.la",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: NHentai",
-    "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.60.apk",
-    "lang": "all",
-    "code": 60,
-    "version": "1.4.60",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "NHentai",
-        "lang": "en",
-        "id": "3122156392225024195",
-        "baseUrl": "https://nhentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "NHentai",
-        "lang": "ja",
-        "id": "4726175775739752699",
-        "baseUrl": "https://nhentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "NHentai",
-        "lang": "zh",
-        "id": "2203215402871965477",
-        "baseUrl": "https://nhentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "NHentai",
-        "lang": "all",
-        "id": "7309872737163460316",
-        "baseUrl": "https://nhentai.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Pururin",
-    "pkg": "eu.kanade.tachiyomi.extension.all.pururin",
-    "apk": "tachiyomi-all.pururin-v1.4.10.apk",
-    "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Pururin",
-        "lang": "all",
-        "id": "4326152278746463981",
-        "baseUrl": "https://pururin.me",
-        "versionId": 1
-      },
-      {
-        "name": "Pururin",
-        "lang": "en",
-        "id": "2221515250486218861",
-        "baseUrl": "https://pururin.me",
-        "versionId": 1
-      },
-      {
-        "name": "Pururin",
-        "lang": "ja",
-        "id": "995946880114959182",
-        "baseUrl": "https://pururin.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hentai20",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hentai20",
-    "apk": "tachiyomi-en.hentai20-v1.4.41.apk",
-    "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Hentai20",
-        "lang": "en",
-        "id": "7114409483685920616",
-        "baseUrl": "https://hentai20.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Hentai2Read",
-    "pkg": "eu.kanade.tachiyomi.extension.en.hentai2read",
-    "apk": "tachiyomi-en.hentai2read-v1.4.19.apk",
-    "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Hentai2Read",
-        "lang": "en",
-        "id": "8314925449740051373",
-        "baseUrl": "https://hentai2read.com",
-        "versionId": 1
-      }
-    ]
-  }
-]
+      "extensionLib": "1.4",
+      "versionCode": 19,
+      "versionName": "1.4.19",
+      "sources": [
+        {
+          "id": "8314925449740051373",
+          "name": "Hentai2Read",
+          "language": "en",
+          "homeUrl": "https://hentai2read.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    }
+  ]
+}
