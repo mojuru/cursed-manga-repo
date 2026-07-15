@@ -307,6 +307,12 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
+            "id": "7309872737163460316",
+            "name": "NHentai",
+            "language": "all",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
             "id": "3122156392225024195",
             "name": "NHentai",
             "language": "en",
@@ -322,12 +328,6 @@
             "id": "2203215402871965477",
             "name": "NHentai",
             "language": "zh",
-            "homeUrl": "https://nhentai.net"
-          },
-          {
-            "id": "7309872737163460316",
-            "name": "NHentai",
-            "language": "all",
             "homeUrl": "https://nhentai.net"
           }
         ]
