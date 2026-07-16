@@ -298,12 +298,12 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.nhentai-v1.4.61.apk",
+          "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.nhentai-v1.4.62.apk",
           "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.nhentai.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "61",
-        "versionName": "1.4.61",
+        "versionCode": "62",
+        "versionName": "1.4.62",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -336,12 +336,12 @@
         "name": "Pururin",
         "packageName": "eu.kanade.tachiyomi.extension.all.pururin",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.pururin-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/apk/tachiyomi-all.pururin-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.pururin.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
