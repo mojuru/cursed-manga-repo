@@ -13,7 +13,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/apk/tachiyomi-all.ehentai-v1.4.29.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/icon/eu.kanade.tachiyomi.extension.all.ehentai.png",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@master/src/all/ehentai/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/jar/tachiyomi-all.ehentai-v1.4.29.jar"
         },
         "extensionLib": "1.4",
@@ -130,7 +130,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/apk/tachiyomi-all.hitomi-v1.4.41.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/icon/eu.kanade.tachiyomi.extension.all.hitomi.png",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@master/src/all/hitomi/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/jar/tachiyomi-all.hitomi-v1.4.41.jar"
         },
         "extensionLib": "1.4",
@@ -301,7 +301,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/apk/tachiyomi-all.nhentai-v1.4.62.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/icon/eu.kanade.tachiyomi.extension.all.nhentai.png",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@master/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/jar/tachiyomi-all.nhentai-v1.4.62.jar"
         },
         "extensionLib": "1.4",
@@ -340,7 +340,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.all.pururin",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/apk/tachiyomi-all.pururin-v1.4.11.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/icon/eu.kanade.tachiyomi.extension.all.pururin.png",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@master/src/all/pururin/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/jar/tachiyomi-all.pururin-v1.4.11.jar"
         },
         "extensionLib": "1.4",
@@ -373,7 +373,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai20",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/apk/tachiyomi-en.hentai20-v1.4.42.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/icon/eu.kanade.tachiyomi.extension.en.hentai20.png",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@master/src/en/hentai20/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/jar/tachiyomi-en.hentai20-v1.4.42.jar"
         },
         "extensionLib": "1.4",
@@ -394,7 +394,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
         "resources": {
           "apkUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/apk/tachiyomi-en.hentai2read-v1.4.19.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-repo@repo/icon/eu.kanade.tachiyomi.extension.en.hentai2read.png",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@master/src/en/hentai2read/res/mipmap-xhdpi/ic_launcher.png",
           "jarUrl": "https://raw.githubusercontent.com/yuzono/cursed-manga-repo/repo/jar/tachiyomi-en.hentai2read-v1.4.19.jar"
         },
         "extensionLib": "1.4",
