@@ -2,7 +2,7 @@
   "eu.kanade.tachiyomi.extension.all.ehentai": {
     "apk": {
       "name": "tachiyomi-all.ehentai-v1.4.29.apk",
-      "sha256": "c44a5a5178e257623571f4149ae23ae874148f522af95c694acdda1e805567e6"
+      "sha256": "d1186eef384a7dd2e78f309bfaab5a3aaa35baf1050c9d54e8487f01a8b0370f"
     },
     "jar": {
       "name": "tachiyomi-all.ehentai-v1.4.29.jar",
@@ -12,7 +12,7 @@
   "eu.kanade.tachiyomi.extension.all.hitomi": {
     "apk": {
       "name": "tachiyomi-all.hitomi-v1.4.41.apk",
-      "sha256": "fcf98f1775a8aba42bde2e2277cf200c6de42d2d50a99ae9d322dbe5a4290e8f"
+      "sha256": "1bfda404c55132fb015d0b0afc360aadb000fbbafb7381e1a15158822ac42e4f"
     },
     "jar": {
       "name": "tachiyomi-all.hitomi-v1.4.41.jar",
@@ -22,7 +22,7 @@
   "eu.kanade.tachiyomi.extension.all.nhentai": {
     "apk": {
       "name": "tachiyomi-all.nhentai-v1.4.62.apk",
-      "sha256": "af21b83bd75d08b2186937fcf0a9740bfa00631938c54068271a15382ca9c4f6"
+      "sha256": "a7e2d7138d36ced46138772b84089df3d3c4373874edd340749c0b32acde14d2"
     },
     "jar": {
       "name": "tachiyomi-all.nhentai-v1.4.62.jar",
@@ -32,7 +32,7 @@
   "eu.kanade.tachiyomi.extension.all.pururin": {
     "apk": {
       "name": "tachiyomi-all.pururin-v1.4.11.apk",
-      "sha256": "83b3bedf93814a58471e518d01e36779a439eaa09601f04c4733190dd97415e2"
+      "sha256": "8d34d7efb96dacb2fb689a539f79956bae66866f2b67155d7b4f2708348afd36"
     },
     "jar": {
       "name": "tachiyomi-all.pururin-v1.4.11.jar",
@@ -42,7 +42,7 @@
   "eu.kanade.tachiyomi.extension.en.hentai20": {
     "apk": {
       "name": "tachiyomi-en.hentai20-v1.6.10.apk",
-      "sha256": "0c40aa60795b84664b1cb077c7db93f37929e061c37946f42fc6fab101befe4e"
+      "sha256": "5de2f6a9f999c6da270f1ac0fd98d7bf54dacdf53fa883b239dc0a24a5b8b963"
     },
     "jar": {
       "name": "tachiyomi-en.hentai20-v1.6.10.jar",
@@ -52,7 +52,7 @@
   "eu.kanade.tachiyomi.extension.en.hentai2read": {
     "apk": {
       "name": "tachiyomi-en.hentai2read-v1.4.19.apk",
-      "sha256": "164b01fd09488988614f2bbcda285e8008e8d34428c1a652177f09b8660327e3"
+      "sha256": "7f1f1f0af3a24c3d9f33f0639bcb2aaf52f760b750efe460c9c815c722d927b9"
     },
     "jar": {
       "name": "tachiyomi-en.hentai2read-v1.4.19.jar",
