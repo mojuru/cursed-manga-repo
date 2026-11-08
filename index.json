@@ -129,13 +129,13 @@
         "name": "Hitomi",
         "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/5dad5cf/tachiyomi-all.hitomi-v1.4.41.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/952f4ce/tachiyomi-all.hitomi-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/all/hitomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/db0db8b/tachiyomi-all.hitomi-v1.4.41.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/952f4ce/tachiyomi-all.hitomi-v1.6.42.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104041",
-        "versionName": "1.4.41",
+        "extensionLib": "1.6",
+        "versionCode": "106042",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

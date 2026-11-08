@@ -11,12 +11,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.hitomi": {
     "apk": {
-      "name": "tachiyomi-all.hitomi-v1.4.41.apk",
-      "sha256": "1bfda404c55132fb015d0b0afc360aadb000fbbafb7381e1a15158822ac42e4f"
+      "name": "tachiyomi-all.hitomi-v1.6.42.apk",
+      "sha256": "01072c76e988062d6c37e76c405f40fe36dfec907aa04d1adc711e3cc0e9e500"
     },
     "jar": {
-      "name": "tachiyomi-all.hitomi-v1.4.41.jar",
-      "sha256": "7d9b101d6e00bd5b27e586585817f322ad6e9805f9ef58395e20bd66e6722cfd"
+      "name": "tachiyomi-all.hitomi-v1.6.42.jar",
+      "sha256": "3b110c44daab2f27e6551575932a0b01d809acb4dcee464d5a1981db2e70c6c7"
     }
   },
   "eu.kanade.tachiyomi.extension.all.nhentai": {
