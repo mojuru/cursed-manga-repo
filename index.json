@@ -12,13 +12,13 @@
         "name": "E-Hentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/5dad5cf/tachiyomi-all.ehentai-v1.4.29.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.ehentai-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/all/ehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/db0db8b/tachiyomi-all.ehentai-v1.4.29.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.ehentai-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104029",
-        "versionName": "1.4.29",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -129,13 +129,13 @@
         "name": "Hitomi",
         "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/952f4ce/tachiyomi-all.hitomi-v1.6.42.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.hitomi-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/all/hitomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/952f4ce/tachiyomi-all.hitomi-v1.6.42.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.hitomi-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106042",
-        "versionName": "1.6.42",
+        "versionCode": "106043",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -300,13 +300,13 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/5dad5cf/tachiyomi-all.nhentai-v1.4.62.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.nhentai-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/db0db8b/tachiyomi-all.nhentai-v1.4.62.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.nhentai-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104062",
-        "versionName": "1.4.62",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -339,13 +339,13 @@
         "name": "Pururin",
         "packageName": "eu.kanade.tachiyomi.extension.all.pururin",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/5dad5cf/tachiyomi-all.pururin-v1.4.11.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.pururin-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/all/pururin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/db0db8b/tachiyomi-all.pururin-v1.4.11.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.pururin-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104011",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -372,13 +372,13 @@
         "name": "Hentai20",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai20",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/5dad5cf/tachiyomi-en.hentai20-v1.6.10.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-en.hentai20-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/en/hentai20/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/55cea34/tachiyomi-en.hentai20-v1.6.10.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-en.hentai20-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106010",
-        "versionName": "1.6.10",
+        "versionCode": "106011",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -393,13 +393,13 @@
         "name": "Hentai2Read",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/73ff920/tachiyomi-en.hentai2read-v1.6.20.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-en.hentai2read-v1.6.21.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/en/hentai2read/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/73ff920/tachiyomi-en.hentai2read-v1.6.20.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-en.hentai2read-v1.6.21.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106020",
-        "versionName": "1.6.20",
+        "versionCode": "106021",
+        "versionName": "1.6.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
