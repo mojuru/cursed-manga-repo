@@ -51,12 +51,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.hentai2read": {
     "apk": {
-      "name": "tachiyomi-en.hentai2read-v1.4.19.apk",
-      "sha256": "7f1f1f0af3a24c3d9f33f0639bcb2aaf52f760b750efe460c9c815c722d927b9"
+      "name": "tachiyomi-en.hentai2read-v1.6.20.apk",
+      "sha256": "e94b82b7ad4c54ff496c6b90dd53942cca75eed5319e244efd425d016d60dda4"
     },
     "jar": {
-      "name": "tachiyomi-en.hentai2read-v1.4.19.jar",
-      "sha256": "b3d3ae6b2bebeeea2efd867392fc54b15de9b2370643aa52bc7a05026fee4721"
+      "name": "tachiyomi-en.hentai2read-v1.6.20.jar",
+      "sha256": "e798a23fa473255fab6f2757f9403552f786851a8a78e4b13523b92773d7a76e"
     }
   }
 }
