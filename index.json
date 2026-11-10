@@ -393,13 +393,13 @@
         "name": "Hentai2Read",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-en.hentai2read-v1.6.21.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/728635a/tachiyomi-en.hentai2read-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/en/hentai2read/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-en.hentai2read-v1.6.21.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/728635a/tachiyomi-en.hentai2read-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
