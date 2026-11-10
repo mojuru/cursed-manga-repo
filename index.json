@@ -339,13 +339,13 @@
         "name": "Pururin",
         "packageName": "eu.kanade.tachiyomi.extension.all.pururin",
         "resources": {
-          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.pururin-v1.6.1.apk",
+          "apkUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/a394278/tachiyomi-all.pururin-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/cursed-manga-extensions@main/src/all/pururin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/6a6e620/tachiyomi-all.pururin-v1.6.1.jar"
+          "jarUrl": "https://github.com/yuzono/cursed-manga-repo/releases/download/a394278/tachiyomi-all.pururin-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
